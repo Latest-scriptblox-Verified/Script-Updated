@@ -1,0 +1,2 @@
+loadstring(gameHttpGet("https://raw.githubusercontent.com/Latest-scriptblox-Verified/Scripts/refs/heads/main/debugger"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Latest-scriptblox-Verified/loader/refs/heads/main/proxy.project"))()
